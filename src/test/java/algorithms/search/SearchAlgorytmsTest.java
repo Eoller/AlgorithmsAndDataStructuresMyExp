@@ -35,4 +35,9 @@ public class SearchAlgorytmsTest {
         assertEquals(3, index);
         assertEquals(0, index2);
     }
+
+    @Test
+    public void testBranch(){
+        System.out.println("testBranch");
+    }
 }
