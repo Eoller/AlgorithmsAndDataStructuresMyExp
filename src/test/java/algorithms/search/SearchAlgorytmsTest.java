@@ -40,4 +40,9 @@ public class SearchAlgorytmsTest {
     public void testGit(){
         System.out.println("xxx");
     }
+
+    @Test
+    public void testBranch(){
+        System.out.println("testBranch");
+    }
 }
